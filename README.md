@@ -2,6 +2,68 @@
 
 ## Description
 
+In order to improve myself, I collect the coding questions I solved on various platforms in this repo, divided into topics.
+
+## Topics
+
+### Algorithms
+
+#### Greedy Algorithms
+
+#### Sorting Algorithms
+
+##### Quick Sort Algorithm
+
+##### Merge Sort Algorithm
+
+#### Searching Algorithms
+
+##### Binary Search Algorithm
+
+##### Depth-First Search Algorithm
+
+##### Breadth-First Search Algorithm
+
+### Data Structures
+
+#### Binary Search Trees
+
+#### Binary Trees
+
+#### Linked Lists
+
+#### Hash Tables
+
+#### Queues
+
+#### Stacks
+
+#### Arrays
+
+#### Heaps
+
+#### Trees
+
+### Dynamic Programming
+
+### Functional Programming
+
+### Object-Oriented Programming
+
+### Regular Expressions
+
+### String Manipulation
+
+### Fundamentals
+
+### Filtering
+
+### Counting
+
+### Loops
+
+### Math
+
 ## Languages
 
 ### JavaScript
@@ -16,6 +78,6 @@
 
 ### [CodeSignal](https://app.codesignal.com/profile/selimbiber)
 
-### Other Platforms
+### Other Resources
 
 #### [edabit](https://edabit.com/challenges)
