@@ -1,14 +1,21 @@
-/* NOTE - Question Description
-Write a function createHelloWorld. It should return a new function that always returns "Hello World". 
-*/
 const createHelloWorld = () => {
   return function (...args) {
     return "Hello World";
   };
 };
 
-/*
-*NOTE -  Submission Info
+/*NOTE - Example 
+
+Input: args = []
+Output: "Hello World"
+Explanation:
+  const f = createHelloWorld();
+  f(); // "Hello World"
+
+The function returned by createHelloWorld should always return "Hello World".
+*/
+
+/* NOTE - Info
 
 submitted at Feb 21, 2024 18:27
 
