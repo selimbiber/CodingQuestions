@@ -8,7 +8,7 @@ const map = function (arr, fn) {
   return RESULT;
 };
 
-/*NOTE - Example
+/* NOTE - Examples
 
 Input: arr = [1,2,3], fn = function plusone(n) { return n + 1; }
 Output: [2,3,4]
@@ -18,7 +18,7 @@ Explanation:
 The function increases each value in the array by one. 
 */
 
-/* NOTE - Info
+/* NOTE - Results
 
 submitted at Apr 27, 2024 23:54
 

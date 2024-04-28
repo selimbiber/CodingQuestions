@@ -4,7 +4,7 @@ const createHelloWorld = () => {
   };
 };
 
-/*NOTE - Example 
+/* NOTE - Examples
 
 Input: args = []
 Output: "Hello World"
@@ -15,7 +15,7 @@ Explanation:
 The function returned by createHelloWorld should always return "Hello World".
 */
 
-/* NOTE - Info
+/* NOTE - Results
 
 submitted at Feb 21, 2024 18:27
 
