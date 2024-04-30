@@ -24,4 +24,4 @@ const filter = function (arr, fn) {
   runtime 53ms and beats 56.13% of users with JavaScript
   
   memory 49.21 MB and beats 15.61% of users with JavaScript
-  */
+*/
