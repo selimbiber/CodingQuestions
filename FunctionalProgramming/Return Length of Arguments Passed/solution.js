@@ -7,9 +7,9 @@ const argumentsLength = function (...args) {
 Input: args = [5]
 Output: 1
 Explanation:
-    argumentsLength(5); // 1
+  argumentsLength(5); // 1
 
-    One value was passed to the function so it should return 1.
+  One value was passed to the function so it should return 1.
 */
 
 /* NOTE - Results
