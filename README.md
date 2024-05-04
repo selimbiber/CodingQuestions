@@ -81,3 +81,7 @@ In order to improve myself, I collect the coding questions I solved on various p
 ### Other Resources
 
 #### [edabit](https://edabit.com/challenges)
+
+### LeetCode Award
+
+![leetcode award](https://github.com/selimbiber/CodingQuestions/assets/117529414/47d98237-e684-4c0e-8953-26488836e078)
