@@ -32,5 +32,5 @@ submitted at Mar 31, 2024 12:08
   
 runtime 56ms and beats 42.29% of users with JavaScript
 
-memory 49.47 MB and beats 64.26% of users with JavaScript
+memory 49.5 MB and beats 64.26% of users with JavaScript
 */
