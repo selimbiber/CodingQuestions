@@ -60,8 +60,6 @@ In order to improve myself, I collect the coding questions I solved on various p
 
 ### Counting
 
-### Loops
-
 ### Math
 
 ## Languages
