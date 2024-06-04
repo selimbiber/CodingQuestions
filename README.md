@@ -82,6 +82,10 @@ In order to improve myself, I collect the coding questions I solved on various p
 
 #### [edabit](https://edabit.com/challenges)
 
+### CodeWars Badget
+
+[![Profile badge](https://www.codewars.com/users/selimbiber/badges/large)](https://www.codewars.com/users/selimbiber)
+
 ### LeetCode Award
 
 ![leetcode award](https://github.com/selimbiber/CodingQuestions/assets/117529414/47d98237-e684-4c0e-8953-26488836e078)
