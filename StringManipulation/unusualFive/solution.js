@@ -1,0 +1,1 @@
+const unusualFive = () => "Selim".length;
