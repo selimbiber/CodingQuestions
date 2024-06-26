@@ -1,5 +1,5 @@
 function spEng(sentence) {
   const lowerCaseSentence = sentence.toLowerCase();
 
-  return lowerCaseSentence.includes("english") ? true : false;
+  return lowerCaseSentence.includes("english");
 }
