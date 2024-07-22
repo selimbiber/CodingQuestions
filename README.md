@@ -78,9 +78,13 @@ In order to improve myself, I collect the coding questions I solved on various p
 
 ### [CodeSignal](https://app.codesignal.com/profile/selimbiber)
 
-### Other Resources
+### Other Sources
+
+#### [exercism](https://exercism.org)
 
 #### [edabit](https://edabit.com/challenges)
+
+#### [coderbyte](https://coderbyte.com/challenges)
 
 ### CodeWars Badget
 
