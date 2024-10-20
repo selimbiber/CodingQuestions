@@ -1,5 +1,7 @@
 # Sorting Algorithms
 
-## Quick Sort Algorithm
+## Quick Sort Algorithm Solutions
 
-## Merge Sort Algorithm
+## Merge Sort Algorithm Solutions
+
+## Tim Sort Algorithm Solutions
