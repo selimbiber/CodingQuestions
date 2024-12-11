@@ -11,4 +11,4 @@ For example, when the input is green, output should be yellow.
 ## Solution Languages
 
 - [x] TypeScript
-- [] Python
+- [x] Python
