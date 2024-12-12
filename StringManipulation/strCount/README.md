@@ -22,4 +22,4 @@ If no occurrences can be found, a count of 0 should be returned.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
