@@ -44,5 +44,5 @@ Return true if word is valid, otherwise, return false.
 ## Solution Languages
 
 - [x] Python
-- [ ] JavaScript
+- [x] TypeScript
 - [ ] PHP
