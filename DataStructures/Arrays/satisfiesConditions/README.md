@@ -50,5 +50,5 @@ Return true if all the cells satisfy these conditions, otherwise, return false.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
