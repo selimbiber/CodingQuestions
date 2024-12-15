@@ -11,5 +11,5 @@ Output: "One".
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
