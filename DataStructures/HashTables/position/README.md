@@ -14,4 +14,4 @@ Note: Only lowercased English letters are tested
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
