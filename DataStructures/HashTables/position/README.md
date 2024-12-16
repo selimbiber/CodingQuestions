@@ -13,5 +13,5 @@ Note: Only lowercased English letters are tested
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
