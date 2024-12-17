@@ -36,4 +36,4 @@ Return the minimum number of operations needed so that all elements of the array
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
