@@ -35,5 +35,5 @@ Return the minimum number of operations needed so that all elements of the array
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
