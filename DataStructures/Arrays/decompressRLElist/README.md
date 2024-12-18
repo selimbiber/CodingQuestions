@@ -27,4 +27,4 @@ Return the decompressed list.
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
