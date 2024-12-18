@@ -26,5 +26,5 @@ Return the decompressed list.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
