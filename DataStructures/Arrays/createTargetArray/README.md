@@ -46,5 +46,5 @@ It is guaranteed that the insertion operations will be valid.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
