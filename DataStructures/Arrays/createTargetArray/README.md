@@ -47,4 +47,4 @@ It is guaranteed that the insertion operations will be valid.
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
