@@ -32,4 +32,4 @@ Return the array ans. Answers within 10-5 of the actual answer will be accepted.
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] C
+- [x] C
