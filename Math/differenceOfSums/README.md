@@ -44,5 +44,5 @@ Return the integer num1 - num2.
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] C
