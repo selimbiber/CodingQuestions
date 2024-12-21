@@ -43,6 +43,6 @@ Return the integer num1 - num2.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] C
