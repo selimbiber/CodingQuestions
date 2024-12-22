@@ -31,6 +31,6 @@ Note that the returned array may be in any order.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] C
