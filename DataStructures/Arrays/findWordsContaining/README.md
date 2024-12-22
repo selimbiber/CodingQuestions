@@ -33,4 +33,4 @@ Note that the returned array may be in any order.
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] C
+- [x] C
