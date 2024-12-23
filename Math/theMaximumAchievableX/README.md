@@ -39,4 +39,4 @@ Return the maximum achievable number after applying the operation at most t time
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] C
+- [x] C
