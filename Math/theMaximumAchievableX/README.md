@@ -37,6 +37,6 @@ Return the maximum achievable number after applying the operation at most t time
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] C
