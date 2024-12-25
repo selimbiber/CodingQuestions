@@ -22,5 +22,5 @@ A defanged IP address replaces every period "." with "[.]".
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] C
