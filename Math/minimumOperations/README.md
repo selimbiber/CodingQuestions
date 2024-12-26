@@ -32,5 +32,5 @@ Return the minimum number of operations to make all elements of nums divisible b
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] C
