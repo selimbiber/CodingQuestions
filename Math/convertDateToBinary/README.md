@@ -33,6 +33,6 @@ Return the binary representation of date.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] C
