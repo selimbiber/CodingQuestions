@@ -35,4 +35,4 @@ Return the binary representation of date.
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] C
+- [x] C
