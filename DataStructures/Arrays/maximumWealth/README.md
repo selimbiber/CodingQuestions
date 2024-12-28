@@ -36,6 +36,6 @@ A customer's wealth is the amount of money they have in all their bank accounts.
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] Rust
 - [ ] C
