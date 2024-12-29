@@ -21,7 +21,7 @@ Given a positive integer n, return the smallest positive integer that is a multi
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] Rust
 - [ ] C
