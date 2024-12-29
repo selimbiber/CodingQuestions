@@ -22,6 +22,6 @@ Given a positive integer n, return the smallest positive integer that is a multi
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] Rust
 - [ ] C
