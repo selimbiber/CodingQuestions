@@ -23,5 +23,5 @@ Given a positive integer n, return the smallest positive integer that is a multi
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] Rust
+- [x] Rust
 - [ ] C
