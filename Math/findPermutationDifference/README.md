@@ -41,4 +41,4 @@ That is, the permutation difference between s and t is equal to |0 - 1| + |1 - 0
 - [x] PHP
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
