@@ -37,7 +37,7 @@ That is, the permutation difference between s and t is equal to |0 - 1| + |1 - 0
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] Ruby
 - [ ] Rust
