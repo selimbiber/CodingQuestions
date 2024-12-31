@@ -37,6 +37,6 @@ There are 3 employees who met the target.
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
