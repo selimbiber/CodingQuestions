@@ -38,5 +38,5 @@ There are 3 employees who met the target.
 - [x] Python
 - [x] PHP
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
