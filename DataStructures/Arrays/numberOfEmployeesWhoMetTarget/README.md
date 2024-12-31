@@ -39,4 +39,4 @@ There are 3 employees who met the target.
 - [x] PHP
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
