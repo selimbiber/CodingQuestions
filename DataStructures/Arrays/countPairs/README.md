@@ -39,4 +39,4 @@ Given a 0-indexed integer array nums of length n and an integer target, return t
 - [x] PHP
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
