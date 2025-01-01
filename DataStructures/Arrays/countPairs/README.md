@@ -36,7 +36,7 @@ Given a 0-indexed integer array nums of length n and an integer target, return t
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
