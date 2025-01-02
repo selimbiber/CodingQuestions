@@ -34,7 +34,7 @@ Return the array answer.
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
