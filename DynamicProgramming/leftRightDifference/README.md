@@ -33,7 +33,7 @@ Return the array answer.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] Ruby
 - [ ] Rust
