@@ -36,5 +36,5 @@ Return the array answer.
 - [x] Python
 - [x] PHP
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
