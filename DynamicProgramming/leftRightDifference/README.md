@@ -35,6 +35,6 @@ Return the array answer.
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
