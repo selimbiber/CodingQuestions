@@ -31,5 +31,5 @@ Return the running sum of nums.
 - [x] Python
 - [x] PHP
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
