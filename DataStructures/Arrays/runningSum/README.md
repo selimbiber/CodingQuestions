@@ -28,7 +28,7 @@ Return the running sum of nums.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] Ruby
 - [ ] Rust
