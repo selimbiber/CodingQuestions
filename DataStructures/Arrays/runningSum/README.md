@@ -32,4 +32,4 @@ Return the running sum of nums.
 - [x] PHP
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
