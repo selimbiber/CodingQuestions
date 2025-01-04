@@ -30,5 +30,5 @@ Given an integer number n, return the difference between the product of its digi
 - [x] Python
 - [x] PHP
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
