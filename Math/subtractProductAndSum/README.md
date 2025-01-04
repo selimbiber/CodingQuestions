@@ -29,6 +29,6 @@ Given an integer number n, return the difference between the product of its digi
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
