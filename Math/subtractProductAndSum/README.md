@@ -27,7 +27,7 @@ Given an integer number n, return the difference between the product of its digi
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] Ruby
 - [ ] Rust
