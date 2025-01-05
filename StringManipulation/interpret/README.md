@@ -33,6 +33,6 @@ Given the string command, return the Goal Parser's interpretation of command.
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
