@@ -32,7 +32,7 @@ Given the string command, return the Goal Parser's interpretation of command.
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
