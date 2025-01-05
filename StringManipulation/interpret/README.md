@@ -31,7 +31,7 @@ Given the string command, return the Goal Parser's interpretation of command.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] Ruby
 - [ ] Rust
