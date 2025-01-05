@@ -31,4 +31,4 @@ Given an integer number n, return the difference between the product of its digi
 - [x] PHP
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
