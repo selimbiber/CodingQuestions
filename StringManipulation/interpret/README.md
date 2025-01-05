@@ -35,4 +35,4 @@ Given the string command, return the Goal Parser's interpretation of command.
 - [x] PHP
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
