@@ -32,5 +32,5 @@ Return the total number of good pairs.
 - [x] Python
 - [x] PHP
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
