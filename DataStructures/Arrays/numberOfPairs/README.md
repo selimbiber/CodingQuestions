@@ -30,7 +30,7 @@ Return the total number of good pairs.
 
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [x] PHP
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
