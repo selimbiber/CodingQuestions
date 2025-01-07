@@ -33,4 +33,4 @@ Return the total number of good pairs.
 - [x] PHP
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
