@@ -33,5 +33,5 @@ Return the maximum number of words that appear in a single sentence.
 - [x] Python
 - [x] PHP
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
