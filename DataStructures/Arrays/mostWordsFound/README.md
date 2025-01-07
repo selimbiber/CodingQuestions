@@ -32,6 +32,6 @@ Return the maximum number of words that appear in a single sentence.
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
