@@ -30,7 +30,7 @@ There are 3 employees who met the target.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] PHP
 - [ ] Ruby
 - [ ] Rust
