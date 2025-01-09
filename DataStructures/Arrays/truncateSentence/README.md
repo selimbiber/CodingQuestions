@@ -36,8 +36,8 @@ You are given a sentence s​​​​​​ and an integer k​​​​​​.
 ## Solution Languages
 
 - [x] TypeScript
+- [x] PHP
 - [ ] Python
-- [ ] PHP
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
