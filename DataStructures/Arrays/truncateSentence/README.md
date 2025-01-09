@@ -39,5 +39,5 @@ You are given a sentence s​​​​​​ and an integer k​​​​​​.
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
