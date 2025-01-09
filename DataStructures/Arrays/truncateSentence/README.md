@@ -37,7 +37,7 @@ You are given a sentence s​​​​​​ and an integer k​​​​​​.
 
 - [x] TypeScript
 - [x] PHP
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
