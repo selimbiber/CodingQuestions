@@ -41,5 +41,5 @@ In one step, if the current number is even, you have to divide it by 2, otherwis
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
