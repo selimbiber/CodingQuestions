@@ -39,7 +39,7 @@ In one step, if the current number is even, you have to divide it by 2, otherwis
 
 - [x] TypeScript
 - [x] PHP
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
