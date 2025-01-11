@@ -30,7 +30,7 @@ An integer val divides nums if nums % val == 0.
 
 - [x] TypeScript
 - [x] PHP
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
