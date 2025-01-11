@@ -32,5 +32,5 @@ An integer val divides nums if nums % val == 0.
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
