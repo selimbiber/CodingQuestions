@@ -29,7 +29,7 @@ An integer val divides nums if nums % val == 0.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] PHP
+- [x] PHP
 - [ ] Python
 - [ ] Ruby
 - [ ] Rust
