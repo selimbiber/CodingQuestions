@@ -33,4 +33,4 @@ An integer val divides nums if nums % val == 0.
 - [x] Python
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
