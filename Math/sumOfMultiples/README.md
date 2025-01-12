@@ -29,8 +29,8 @@ Return an integer denoting the sum of all numbers in the given range satisfying 
 ## Solution Languages
 
 - [x] TypeScript
+- [x] Python
 - [ ] PHP
-- [ ] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
