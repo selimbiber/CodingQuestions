@@ -33,4 +33,4 @@ Return an integer denoting the sum of all numbers in the given range satisfying 
 - [x] PHP
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
