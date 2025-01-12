@@ -31,6 +31,6 @@ Return an integer denoting the sum of all numbers in the given range satisfying 
 - [x] TypeScript
 - [x] Python
 - [x] PHP
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
