@@ -32,5 +32,5 @@ Return an integer denoting the sum of all numbers in the given range satisfying 
 - [x] Python
 - [x] PHP
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
