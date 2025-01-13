@@ -38,7 +38,7 @@ Return the decoded message.
 - [x] TypeScript
 - [x] PHP
 - [x] Python
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
 - [ ] C
