@@ -39,6 +39,5 @@ Return the decoded message.
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
-- [ ] C
