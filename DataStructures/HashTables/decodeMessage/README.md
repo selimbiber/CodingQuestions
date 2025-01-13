@@ -36,7 +36,7 @@ Return the decoded message.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] PHP
+- [x] PHP
 - [ ] Python
 - [ ] Ruby
 - [ ] Rust
