@@ -26,7 +26,7 @@ Return the shuffled string.
 
 - [x] TypeScript
 - [x] PHP
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
