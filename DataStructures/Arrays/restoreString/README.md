@@ -28,5 +28,5 @@ Return the shuffled string.
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
