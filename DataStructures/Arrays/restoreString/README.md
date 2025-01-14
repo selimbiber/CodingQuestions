@@ -29,4 +29,4 @@ Return the shuffled string.
 - [x] Python
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
