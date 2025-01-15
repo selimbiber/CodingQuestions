@@ -64,7 +64,7 @@ Bu tablolar, her bir adımda `nums` ve `averages` değerlerini göstermektedir.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] PHP
+- [x] PHP
 - [ ] Python
 - [ ] Ruby
 - [ ] Rust
