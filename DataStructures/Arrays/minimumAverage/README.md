@@ -67,5 +67,5 @@ Bu tablolar, her bir adımda `nums` ve `averages` değerlerini göstermektedir.
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
