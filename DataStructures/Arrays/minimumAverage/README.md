@@ -68,4 +68,4 @@ Bu tablolar, her bir adımda `nums` ve `averages` değerlerini göstermektedir.
 - [x] Python
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
