@@ -65,7 +65,7 @@ Bu tablolar, her bir adımda `nums` ve `averages` değerlerini göstermektedir.
 
 - [x] TypeScript
 - [x] PHP
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
