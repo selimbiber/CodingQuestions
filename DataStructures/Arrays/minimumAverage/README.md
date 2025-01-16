@@ -29,8 +29,6 @@ Return the minimum element in averages.
 | 3    | [7, 4]                     | [8, 8, 6]      |
 | 4    | []                         | [8, 8, 6, 5.5] |
 
-Bu tablolar, her bir adımda `nums` ve `averages` değerlerini göstermektedir.
-
 ### Example 2:
 
 - Input: nums = [1,9,8,3,10,5]
