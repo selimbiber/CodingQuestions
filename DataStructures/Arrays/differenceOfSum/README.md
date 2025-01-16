@@ -36,6 +36,6 @@ Note that the absolute difference between two integers x and y is defined as |x 
 - [x] TypeScript
 - [x] PHP
 - [x] Python
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
