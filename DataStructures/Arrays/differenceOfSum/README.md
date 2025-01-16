@@ -34,7 +34,7 @@ Note that the absolute difference between two integers x and y is defined as |x 
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] PHP
+- [x] PHP
 - [ ] Python
 - [ ] Ruby
 - [ ] Rust
