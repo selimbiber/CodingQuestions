@@ -31,6 +31,6 @@ Return the number of items that match the given rule.
 - [x] TypeScript
 - [x] PHP
 - [x] Python
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
