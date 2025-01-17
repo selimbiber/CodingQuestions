@@ -29,7 +29,7 @@ Return the number of items that match the given rule.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] PHP
+- [x] PHP
 - [ ] Python
 - [ ] Ruby
 - [ ] Rust
