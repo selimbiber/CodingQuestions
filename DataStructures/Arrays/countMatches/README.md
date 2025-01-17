@@ -32,5 +32,5 @@ Return the number of items that match the given rule.
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
