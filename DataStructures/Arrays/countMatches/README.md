@@ -33,4 +33,4 @@ Return the number of items that match the given rule.
 - [x] Python
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
