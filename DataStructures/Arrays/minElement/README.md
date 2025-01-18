@@ -43,7 +43,7 @@
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] PHP
+- [x] PHP
 - [ ] Python
 - [ ] Ruby
 - [ ] Rust
