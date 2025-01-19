@@ -45,6 +45,6 @@
 - [x] TypeScript
 - [x] PHP
 - [ ] Python
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
