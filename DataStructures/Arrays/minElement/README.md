@@ -47,4 +47,4 @@
 - [x] Python
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
