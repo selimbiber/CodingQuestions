@@ -39,6 +39,6 @@ Return the list of cells (x, y) such that r1 <= x <= r2 and c1 <= y <= c2. The c
 - [x] TypeScript
 - [x] PHP
 - [x] Python
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
