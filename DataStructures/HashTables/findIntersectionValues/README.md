@@ -39,7 +39,7 @@ Return [answer1,answer2].
 
 - [x] TypeScript
 - [x] PHP
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
