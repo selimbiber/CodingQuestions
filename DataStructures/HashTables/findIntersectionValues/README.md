@@ -41,5 +41,5 @@ Return [answer1,answer2].
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
