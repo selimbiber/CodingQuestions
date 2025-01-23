@@ -40,6 +40,6 @@ Return [answer1,answer2].
 - [x] TypeScript
 - [x] PHP
 - [x] Python
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
