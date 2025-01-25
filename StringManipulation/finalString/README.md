@@ -43,6 +43,6 @@ Return the final string that will be present on your laptop screen.
 - [x] TypeScript
 - [x] PHP
 - [x] Python
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Go
