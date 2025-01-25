@@ -42,7 +42,7 @@ Return the final string that will be present on your laptop screen.
 
 - [x] TypeScript
 - [x] PHP
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Go
