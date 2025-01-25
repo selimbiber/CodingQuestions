@@ -44,5 +44,5 @@ Return the final string that will be present on your laptop screen.
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [ ] Go
