@@ -45,4 +45,4 @@ Return the final string that will be present on your laptop screen.
 - [x] Python
 - [x] Ruby
 - [x] Rust
-- [ ] Go
+- [x] Go
