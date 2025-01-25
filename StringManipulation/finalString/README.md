@@ -41,7 +41,7 @@ Return the final string that will be present on your laptop screen.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] PHP
+- [x] PHP
 - [ ] Python
 - [ ] Ruby
 - [ ] Rust
