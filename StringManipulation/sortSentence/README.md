@@ -29,5 +29,5 @@ Given a shuffled sentence s containing no more than 9 words, reconstruct and ret
 - [x] TypeScript
 - [x] PHP
 - [x] Python
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
