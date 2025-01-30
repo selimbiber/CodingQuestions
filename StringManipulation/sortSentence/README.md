@@ -30,4 +30,4 @@ Given a shuffled sentence s containing no more than 9 words, reconstruct and ret
 - [x] PHP
 - [x] Python
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
