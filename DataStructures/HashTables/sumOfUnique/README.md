@@ -29,4 +29,4 @@ Return the sum of all the unique elements of nums.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
