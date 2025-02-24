@@ -38,4 +38,4 @@ The greatest common divisor of two numbers is the largest positive integer that 
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
