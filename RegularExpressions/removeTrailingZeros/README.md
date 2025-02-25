@@ -21,4 +21,4 @@ Given a positive integer num represented as a string, return the integer num wit
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
