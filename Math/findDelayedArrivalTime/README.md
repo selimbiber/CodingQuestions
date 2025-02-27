@@ -22,7 +22,13 @@ Note that the time in this problem is in 24-hours format.
 - Output: 0
 - Explanation: Arrival time of the train was 13:00 hours. It is delayed by 11 hours. Now it will reach at 13+11=24 (Which is denoted by 00:00 in 24 hours format so return 0).
 
+## Constraints
+
+- 1 <= arrivaltime < 24
+- 1 <= delayedTime <= 24
+
+
 ## Solution Languages
 
 - [x] TypeScript (2025-02-27)
-- [ ] Python
+- [x] Python (2025-02-27)
