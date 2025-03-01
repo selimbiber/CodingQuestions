@@ -34,4 +34,4 @@ The index where nums[i] == 5 is 4.
 ## Solution Languages
 
 - [x] TypeScript (2025-03-01)
-- [ ] Python
+- [x] Python (2025-03-01)
