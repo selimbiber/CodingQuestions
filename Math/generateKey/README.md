@@ -45,4 +45,4 @@ Hence, the key is "0000", i.e. 0.
 ## Solution Languages
 
 - [x] TypeScript (2025-03-02)
-- [ ] Python
+- [x] Python (2025-03-02)
