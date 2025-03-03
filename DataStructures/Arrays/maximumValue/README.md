@@ -39,4 +39,4 @@ Given an array strs of alphanumeric strings, return the maximum value of any str
 ## Solution Languages
 
 - [x] TypeScript (2025-03-03)
-- [ ] Python
+- [x] Python (2025-03-03)
