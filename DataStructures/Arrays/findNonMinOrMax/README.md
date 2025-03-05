@@ -30,4 +30,4 @@ Return the selected integer.
 ## Solution Languages
 
 - [x] TypeScript (2025-03-05)
-- [ ] Python
+- [x] Python (2025-03-05)
