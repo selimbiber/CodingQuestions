@@ -43,4 +43,4 @@ x mod y denotes the remainder when x is divided by y.
 ## Solution Languages
 
 - [x] TypeScript (2025-03-06)
-- [ ] Python
+- [x] Python (2025-03-06)
