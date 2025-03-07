@@ -36,4 +36,5 @@ Return the **minimum** possible sum of num1 and num2.
 ## Solution Languages
 
 - [x] TypeScript (2025-03-07)
-- [ ] Python
+- [x] Python (2025-03-07)
+ 
