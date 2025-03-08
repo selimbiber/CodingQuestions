@@ -29,7 +29,13 @@ Given two string arrays words1 and words2, return the number of strings that app
 - Output: 1
 - Explanation: The only string that appears exactly once in each of the two arrays is "ab".
 
+## Constraints:
+
+- 1 <= words1.length, words2.length <= 1000
+- 1 <= words1[i].length, words2[j].length <= 30
+- words1[i] and words2[j] consists only of lowercase English letters.
+
 ## Solution Languages
 
 - [x] TypeScript (2025-03-08)
-- [ ] Python
+- [x] Python (2025-03-08)
