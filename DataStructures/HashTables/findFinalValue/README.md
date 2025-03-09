@@ -39,4 +39,4 @@ Return the final value of original.
 ## Solution Languages
 
 - [x] TypeScript (2025-03-09)
-- [ ] Python
+- [x] Python (2025-03-09)
