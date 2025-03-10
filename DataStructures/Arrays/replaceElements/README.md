@@ -31,8 +31,7 @@ After doing so, return the array.
 - 1 <= arr.length <= 10 ** 4
 - 1 <= arr[i] <= 10 ** 5
 
-
 ## Solution Languages
 
 - [x] TypeScript (2025-03-10)
-- [ ] Python
+- [x] Python (2025-03-10)
