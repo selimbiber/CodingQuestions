@@ -38,4 +38,4 @@ An English letter b is greater than another letter a if b appears after a in the
 ## Solution Languages
 
 - [x] TypeScript (2025-03-11)
-- [ ] Python
+- [x] Python (2025-03-11)
