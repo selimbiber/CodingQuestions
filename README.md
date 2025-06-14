@@ -1,97 +1,81 @@
-# Coding Questions
+Here's a refined version of your coding questions repository description:
 
-## Description
+---
 
-In order to improve myself, I collect the coding questions I solved on various platforms in this repo, divided into topics.
+# Coding Questions Repository
 
-## Topics
+## Overview
+
+This repository serves as a personal collection of coding questions I have solved across various platforms, organized by topic to facilitate my learning and improvement in programming.
+
+## Topics Covered
 
 ### Algorithms
 
-#### Greedy Algorithms
-
-#### Recursive Algorithms
-
-#### Sorting Algorithms
-
-##### Quick Sort Algorithm
-
-##### Merge Sort Algorithm
-
-#### Searching Algorithms
-
-##### Binary Search Algorithm
-
-##### Depth-First Search Algorithm
-
-##### Breadth-First Search Algorithm
+- **Greedy Algorithms**
+- **Recursive Algorithms**
+- **Sorting Algorithms**
+  - Quick Sort
+  - Merge Sort
+- **Searching Algorithms**
+  - Binary Search
+  - Depth-First Search (DFS)
+  - Breadth-First Search (BFS)
 
 ### Data Structures
 
-#### Binary Search Trees
+- **Binary Search Trees**
+- **Binary Trees**
+- **Linked Lists**
+- **Hash Tables**
+- **Queues**
+- **Stacks**
+- **Arrays**
+- **Heaps**
+- **General Trees**
 
-#### Binary Trees
+### Programming Paradigms
 
-#### Linked Lists
+- **Dynamic Programming**
+- **Functional Programming**
+- **Object-Oriented Programming**
 
-#### Hash Tables
+### Additional Topics
 
-#### Queues
+- **Regular Expressions**
+- **String Manipulation**
+- **Fundamentals**
+- **Filtering**
+- **Counting**
+- **Mathematics**
 
-#### Stacks
+## Programming Languages
 
-#### Arrays
-
-#### Heaps
-
-#### Trees
-
-### Dynamic Programming
-
-### Functional Programming
-
-### Object-Oriented Programming
-
-### Regular Expressions
-
-### String Manipulation
-
-### Fundamentals
-
-### Filtering
-
-### Counting
-
-### Math
-
-## Languages
-
-### JavaScript
+- **JavaScript**
+- **TypeScript**
+- **Python**
+- **Rust**
 
 ## Platforms
 
-### [LeetCode](https://leetcode.com/selimbiber/)
+- [LeetCode](https://leetcode.com/selimbiber/)
+- [CodeWars](https://www.codewars.com/users/selimbiber)
+- [HackerRank](https://www.hackerrank.com/profile/selim_biber)
+- [CodeSignal](https://app.codesignal.com/profile/selimbiber)
 
-### [CodeWars](https://www.codewars.com/users/selimbiber)
+## Additional Resources
 
-### [HackerRank](https://www.hackerrank.com/profile/selim_biber)
+- [freeCodeCamp](https://www.freecodecamp.org/learn)
+- [Exercism](https://exercism.org)
+- [Edabit](https://edabit.com/challenges)
+- [Coderbyte](https://coderbyte.com/challenges)
 
-### [CodeSignal](https://app.codesignal.com/profile/selimbiber)
+## Achievements
 
-### Other Sources
-
-#### [freeCodeCamp](https://www.freecodecamp.org/learn)
-
-#### [exercism](https://exercism.org)
-
-#### [edabit](https://edabit.com/challenges)
-
-#### [coderbyte](https://coderbyte.com/challenges)
-
-### CodeWars Badget
+### CodeWars Badge
 
 [![Profile badge](https://www.codewars.com/users/selimbiber/badges/large)](https://www.codewars.com/users/selimbiber)
 
 ### LeetCode Award
 
-![leetcode award](https://github.com/selimbiber/CodingQuestions/assets/117529414/47d98237-e684-4c0e-8953-26488836e078)
+![LeetCode Award](https://github.com/selimbiber/CodingQuestions/assets/117529414/47d98237-e684-4c0e-8953-26488836e078)
