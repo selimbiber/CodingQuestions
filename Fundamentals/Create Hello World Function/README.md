@@ -7,6 +7,6 @@ Write a function createHelloWorld. It should return a new function that always r
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] TypeScript
+- [x] TypeScript
 - [ ] Python
 - [ ] Rust
