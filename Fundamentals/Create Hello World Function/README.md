@@ -1,4 +1,4 @@
-# Create a Hello World Function
+# [Create a Hello World Function](https://leetcode.com/problems/create-hello-world-function/)
 
 ## Question Description
 
@@ -7,6 +7,6 @@ Write a function createHelloWorld. It should return a new function that always r
 ## Solution Languages
 
 - [x] JavaScript
+- [ ] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/create-hello-world-function/)
+- [ ] Rust
