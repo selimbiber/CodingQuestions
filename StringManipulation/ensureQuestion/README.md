@@ -1,4 +1,4 @@
-# Ensure question
+# [Ensure question](https://www.codewars.com/kata/5866fc43395d9138a7000006)
 
 ## Question Description
 
@@ -14,10 +14,6 @@ Given a string, write a function that returns the string with a question mark ("
 ## Solution Languages
 
 - [x] JavaScript
+- [ ] TypeScript
 - [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/5866fc43395d9138a7000006)
-
-```
-
-```
+- [ ] Rust
