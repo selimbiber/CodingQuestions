@@ -1,4 +1,4 @@
-# Majority Element
+# [Majority Element](https://leetcode.com/problems/majority-element)
 
 ## Question Description
 
@@ -9,6 +9,6 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/majority-element)
+- [ ] Rust
