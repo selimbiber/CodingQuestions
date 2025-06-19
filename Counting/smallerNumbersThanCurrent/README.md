@@ -1,4 +1,4 @@
-# How Many Numbers Are Smaller Than the Current Number
+# [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
 
 ## Question Description
 
@@ -9,6 +9,6 @@ Return the answer in an array.
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
+- [ ] Rust
