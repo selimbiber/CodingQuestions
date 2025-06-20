@@ -29,5 +29,7 @@ Return the selected integer.
 
 ## Solution Languages
 
+- [x] JavaScript (2025-06-20)
 - [x] TypeScript (2025-03-05)
 - [x] Python (2025-03-05)
+- [ ] Rust
