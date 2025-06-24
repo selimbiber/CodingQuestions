@@ -33,5 +33,7 @@ After doing so, return the array.
 
 ## Solution Languages
 
+- [x] JavaScript (2025-06-24)
 - [x] TypeScript (2025-03-10)
 - [x] Python (2025-03-10)
+- [ ] Rust
