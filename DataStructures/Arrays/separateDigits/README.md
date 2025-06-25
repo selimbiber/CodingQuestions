@@ -30,5 +30,7 @@ To separate the digits of an integer is to get all the digits it has in the same
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
+- [ ] Rust
