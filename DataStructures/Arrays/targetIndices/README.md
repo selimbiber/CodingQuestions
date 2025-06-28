@@ -33,5 +33,6 @@ The index where nums[i] == 5 is 4.
 
 ## Solution Languages
 
+- [x] JavaScript (2025-06-28)
 - [x] TypeScript (2025-03-01)
 - [x] Python (2025-03-01)
