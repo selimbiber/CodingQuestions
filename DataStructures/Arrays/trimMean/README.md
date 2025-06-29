@@ -1,4 +1,4 @@
-# Mean of Array After Removing Some Elements
+# [Mean of Array After Removing Some Elements]((https://leetcode.com/problems/mean-of-array-after-removing-some-elements))
 
 ## Question Description
 
@@ -27,6 +27,6 @@ Output: 4.77778
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/mean-of-array-after-removing-some-elements)
+- [ ] Rust
