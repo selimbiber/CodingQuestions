@@ -10,13 +10,13 @@ Note that the time in this problem is in 24-hours format.
 
 ## Examples of Expected Result
 
-### Example 1:
+### Example 1
 
-- Input: arrivalTime = 15, delayedTime = 5 
-- Output: 20 
+- Input: arrivalTime = 15, delayedTime = 5
+- Output: 20
 - Explanation: Arrival time of the train was 15:00 hours. It is delayed by 5 hours. Now it will reach at 15+5 = 20 (20:00 hours).
 
-### Example 2:
+### Example 2
 
 - Input: arrivalTime = 13, delayedTime = 11
 - Output: 0
@@ -27,8 +27,9 @@ Note that the time in this problem is in 24-hours format.
 - 1 <= arrivaltime < 24
 - 1 <= delayedTime <= 24
 
-
 ## Solution Languages
 
+- [x] JavaScript (2025-06-30)
 - [x] TypeScript (2025-02-27)
 - [x] Python (2025-02-27)
+- [ ] Rust
