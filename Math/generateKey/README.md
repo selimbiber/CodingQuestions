@@ -44,5 +44,7 @@ Hence, the key is "0000", i.e. 0.
 
 ## Solution Languages
 
+- [x] JavaScript (2025-07-02)
 - [x] TypeScript (2025-03-02)
 - [x] Python (2025-03-02)
+- [ ] Rust
