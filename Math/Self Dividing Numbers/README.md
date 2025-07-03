@@ -1,4 +1,4 @@
-# Self Dividing Numbers
+# [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)
 
 ## Question Description
 
@@ -13,6 +13,6 @@ Given two integers left and right, return a list of all the self-dividing number
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/self-dividing-numbers)
+- [ ] Rust
