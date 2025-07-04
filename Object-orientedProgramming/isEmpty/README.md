@@ -1,4 +1,4 @@
-# Is Object Empty
+# [Is Object Empty](https://leetcode.com/problems/is-object-empty/)
 
 ## Question Description
 
@@ -29,4 +29,9 @@ Input: obj = [null, false, 0]
 Output: false
 Explanation: The array has 3 elements so it is not empty.
 
-## [Question Source](https://leetcode.com/problems/is-object-empty/)
+## Solution Languages
+
+- [x] JavaScript
+- [x] TypeScript
+- [ ] Python
+- [ ] Rust
