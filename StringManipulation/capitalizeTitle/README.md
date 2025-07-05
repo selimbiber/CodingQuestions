@@ -42,5 +42,7 @@ Return the capitalized title.
 
 ## Solution Languages
 
+- [x] JavaScript (2025-07-05)
 - [x] TypeScript (2025-03-14)
 - [x] Python (2025-03-14)
+- [ ] Rust
