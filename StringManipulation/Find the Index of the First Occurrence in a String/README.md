@@ -1,4 +1,4 @@
-# Find the Index of the First Occurrence in a String
+# [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 
 ## Question Description
 
@@ -7,6 +7,6 @@ Given two strings needle and haystack, return the index of the first occurrence 
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
+- [ ] Rust
