@@ -1,4 +1,4 @@
-# Find the Array Concatenation Value
+# [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)
 
 ## Question Description
 
@@ -18,6 +18,6 @@ Return the concatenation value of the nums.
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/find-the-array-concatenation-value/)
+- [ ] Rust
