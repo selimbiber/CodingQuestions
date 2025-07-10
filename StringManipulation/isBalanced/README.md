@@ -1,4 +1,4 @@
-# Check Balanced String
+# [Check Balanced String](https://leetcode.com/problems/check-balanced-string/description/)
 
 ## Question Description
 
@@ -8,7 +8,7 @@ Return true if num is balanced, otherwise return false.
 
 ## Examples of Expected Results
 
-### Example 1:
+### Example 1
 
 - Input: num = "1234"
 
@@ -19,7 +19,7 @@ Return true if num is balanced, otherwise return false.
   The sum of digits at even indices is 1 + 3 == 4, and the sum of digits at odd indices is 2 + 4 == 6.
   Since 4 is not equal to 6, num is not balanced.
 
-### Example 2:
+### Example 2
 
 - Input: num = "24123"
 
@@ -32,7 +32,7 @@ Return true if num is balanced, otherwise return false.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/check-balanced-string/description/)
+- [ ] Rust
