@@ -1,4 +1,4 @@
-# Reverse Integer
+# [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 
 ## Question Description
 
@@ -8,17 +8,17 @@ Assume the environment does not allow you to store 64-bit integers (signed or un
 
 ## Examples of Expected Results
 
-### Example 1:
+### Example 1
 
 Input: x = 123
 Output: 321
 
-### Example 2:
+### Example 2
 
 Input: x = -123
 Output: -321
 
-### Example 3:
+### Example 3
 
 Input: x = 120
 Output: 21
@@ -26,6 +26,6 @@ Output: 21
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/reverse-integer)
+- [ ] Rust
