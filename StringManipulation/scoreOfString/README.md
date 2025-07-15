@@ -1,4 +1,4 @@
-# Score of a String
+# [Score of a String](https://leetcode.com/problems/score-of-a-string)
 
 ## Question Description
 
@@ -8,7 +8,7 @@ Return the score of 's'.
 
 ## Examples of Expected Results
 
-### Example 1:
+### Example 1
 
 Input: s = "hello"
 
@@ -18,7 +18,7 @@ Explanation:
 
 The ASCII values of the characters in s are: 'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111. So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.
 
-### Example 2:
+### Example 2
 
 Input: s = "zaz"
 
@@ -31,6 +31,6 @@ The ASCII values of the characters in s are: 'z' = 122, 'a' = 97. So, the score 
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/score-of-a-string)
+- [ ] Rust
