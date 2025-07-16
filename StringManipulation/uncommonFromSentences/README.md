@@ -1,4 +1,4 @@
-# Uncommon Words from Two Sentences
+# [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)
 
 ## Question Description
 
@@ -11,6 +11,6 @@ Given two sentences s1 and s2, return a list of all the uncommon words. You may 
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/uncommon-words-from-two-sentences)
+- [ ] Rust
