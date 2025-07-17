@@ -43,6 +43,7 @@ Return true if word is valid, otherwise, return false.
 
 ## Solution Languages
 
-- [x] Python
+- [x] JavaScript
 - [x] TypeScript
-- [ ] PHP
+- [x] Python
+- [ ] Rust
