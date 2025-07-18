@@ -10,19 +10,19 @@ Note that the returned array may be in any order.
 
 ## Examples of Expected Results
 
-### Example 1:
+### Example 1
 
 - Input: words = ["leet","code"], x = "e"
 - Output: [0,1]
 - Explanation: "e" occurs in both words: "leet", and "code". Hence, we return indices 0 and 1.
 
-### Example 2:
+### Example 2
 
 - Input: words = ["abc","bcd","aaaa","cbc"], x = "a"
 - Output: [0,2]
 - Explanation: "a" occurs in "abc", and "aaaa". Hence, we return indices 0 and 2.
 
-### Example 3:
+### Example 3
 
 - Input: words = ["abc","bcd","aaaa","cbc"], x = "z"
 - Output: []
@@ -30,7 +30,7 @@ Note that the returned array may be in any order.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] PHP
-- [x] C
+- [ ] Rust
