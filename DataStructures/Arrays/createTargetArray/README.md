@@ -14,7 +14,7 @@ It is guaranteed that the insertion operations will be valid.
 
 ## Examples of Expected Results
 
-### Example 1:
+### Example 1
 
 - Input: nums = [0,1,2,3,4], index = [0,1,2,2,1]
 - Output: [0,4,1,3,2]
@@ -26,7 +26,7 @@ It is guaranteed that the insertion operations will be valid.
   3 2 [0,1,3,2]
   4 1 [0,4,1,3,2]
 
-### Example 2:
+### Example 2
 
 - Input: nums = [1,2,3,4,0], index = [0,1,2,3,0]
 - Output: [0,1,2,3,4]
@@ -38,13 +38,14 @@ It is guaranteed that the insertion operations will be valid.
   4 3 [1,2,3,4]
   0 0 [0,1,2,3,4]
 
-### Example 3:
+### Example 3
 
 - Input: nums = [1], index = [0]
 - Output: [1]
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] PHP
+- [ ] Rust
