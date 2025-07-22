@@ -28,9 +28,7 @@ Return the number of items that match the given rule.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
-- [x] PHP
 - [x] Python
-- [x] Ruby
 - [x] Rust
-- [x] Go
