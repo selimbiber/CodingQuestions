@@ -29,9 +29,7 @@ There are 3 employees who met the target.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] PHP
-- [x] Ruby
 - [x] Rust
-- [x] Go
