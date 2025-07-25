@@ -61,9 +61,7 @@ Return the minimum element in averages.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
-- [x] PHP
 - [x] Python
-- [x] Ruby
 - [x] Rust
-- [x] Go
