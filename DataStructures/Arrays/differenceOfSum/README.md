@@ -33,9 +33,7 @@ Note that the absolute difference between two integers x and y is defined as |x 
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
-- [x] PHP
 - [x] Python
-- [x] Ruby
 - [x] Rust
-- [x] Go
