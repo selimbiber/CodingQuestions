@@ -28,9 +28,7 @@ Return the total number of good pairs.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] PHP
-- [x] Ruby
 - [x] Rust
-- [x] Go
