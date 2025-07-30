@@ -49,6 +49,7 @@ Return true if all the cells satisfy these conditions, otherwise, return false.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [ ] PHP
+- [ ] Rust
