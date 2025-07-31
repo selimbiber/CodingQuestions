@@ -35,9 +35,7 @@ You are given a sentence s​​​​​​ and an integer k​​​​​​.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
-- [x] PHP
 - [x] Python
-- [x] Ruby
 - [x] Rust
-- [x] Go
