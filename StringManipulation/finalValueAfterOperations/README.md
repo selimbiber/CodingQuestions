@@ -46,7 +46,7 @@ Given an array of strings operations containing a list of operations, return the
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] PHP
-- [x] C
+- [ ] Rust
