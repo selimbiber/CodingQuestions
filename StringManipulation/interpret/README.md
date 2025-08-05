@@ -30,9 +30,7 @@ Given the string command, return the Goal Parser's interpretation of command.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] PHP
-- [x] Ruby
 - [x] Rust
-- [x] Go
