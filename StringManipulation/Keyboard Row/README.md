@@ -13,6 +13,8 @@ In the American keyboard:
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [ ] Python
+- [ ] Rust
 
 ## [Question Source](https://leetcode.com/problems/keyboard-row)
