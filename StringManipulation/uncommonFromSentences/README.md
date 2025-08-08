@@ -12,5 +12,5 @@ Given two sentences s1 and s2, return a list of all the uncommon words. You may 
 
 - [x] JavaScript
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] Rust
