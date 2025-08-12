@@ -34,5 +34,5 @@ Return true if num is balanced, otherwise return false.
 
 - [x] JavaScript
 - [x] TypeScript
-- [ ] Python
-- [ ] Rust
+- [x] Python
+- [x] Rust
