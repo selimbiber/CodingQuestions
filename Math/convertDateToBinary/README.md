@@ -32,7 +32,7 @@ Return the binary representation of date.
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] PHP
-- [x] C
+- [ ] Rust
