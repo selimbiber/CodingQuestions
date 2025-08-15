@@ -14,5 +14,5 @@ Given two integers left and right, return a list of all the self-dividing number
 
 - [x] JavaScript
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] Rust
