@@ -8,7 +8,7 @@ Return the minimum number of operations to make all elements of nums divisible b
 
 ## Examples of Expected Result
 
-### Example 1:
+### Example 1
 
 - Input: nums = [1,2,3,4]
 
@@ -22,7 +22,7 @@ Return the minimum number of operations to make all elements of nums divisible b
   - Add 1 to 2.
   - Subtract 1 from 4.
 
-### Example 2:
+### Example 2
 
 - Input: nums = [3,6,9]
 
@@ -30,7 +30,7 @@ Return the minimum number of operations to make all elements of nums divisible b
 
 ## Solution Languages
 
+- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] PHP
-- [x] C
+- [ ] Rust
