@@ -29,8 +29,6 @@ An integer val divides nums if nums % val == 0.
 ## Solution Languages
 
 - [x] TypeScript
-- [x] PHP
 - [x] Python
-- [x] Ruby
 - [x] Rust
 - [x] Go
