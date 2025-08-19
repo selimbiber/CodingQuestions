@@ -26,7 +26,7 @@ Output: 4.77778
 
 ## Solution Languages
 
-- [x] JavaScript
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] Rust
+- [ ] Go
