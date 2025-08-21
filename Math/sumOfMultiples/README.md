@@ -30,7 +30,5 @@ Return an integer denoting the sum of all numbers in the given range satisfying 
 
 - [x] TypeScript
 - [x] Python
-- [x] PHP
-- [x] Ruby
 - [x] Rust
 - [x] Go
