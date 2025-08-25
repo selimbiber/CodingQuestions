@@ -42,7 +42,7 @@ x mod y denotes the remainder when x is divided by y.
 
 ## Solution Languages
 
-- [x] JavaScript (2025-06-26)
-- [x] TypeScript (2025-03-06)
-- [x] Python (2025-03-06)
-- [ ] Rust
+- [x] TypeScript
+- [x] Python
+- [x] Rust
+- [ ] Go
