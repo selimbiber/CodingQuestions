@@ -30,7 +30,7 @@ Note that the returned array may be in any order.
 
 ## Solution Languages
 
-- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [ ] Rust
+- [x] Rust
+- [ ] Go
