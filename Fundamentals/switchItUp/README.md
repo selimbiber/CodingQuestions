@@ -12,5 +12,5 @@ Output: "One".
 
 - [x] TypeScript
 - [x] Python
-- [ ] Rust
+- [x] Rust
 - [ ] Go
