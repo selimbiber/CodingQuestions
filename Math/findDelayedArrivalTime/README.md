@@ -29,7 +29,7 @@ Note that the time in this problem is in 24-hours format.
 
 ## Solution Languages
 
-- [x] JavaScript (2025-06-30)
-- [x] TypeScript (2025-02-27)
-- [x] Python (2025-02-27)
-- [ ] Rust
+- [x] JavaScript
+- [x] TypeScript
+- [x] Python
+- [x] Rust
