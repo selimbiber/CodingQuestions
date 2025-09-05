@@ -30,7 +30,7 @@ Return the minimum number of operations to make all elements of nums divisible b
 
 ## Solution Languages
 
-- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [ ] Rust
+- [x] Rust
+- [ ] Go
