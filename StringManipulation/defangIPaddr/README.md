@@ -20,7 +20,7 @@ A defanged IP address replaces every period "." with "[.]".
 
 ## Solution Languages
 
-- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [ ] Rust
+- [x] Rust
+- [ ] Go
