@@ -6,7 +6,7 @@ Given an integer x, return true if x is a palindrome, and false otherwise.
 
 ## Solution Languages
 
-- [x] JavaScript
 - [x] TypeScript
-- [ ] Python
-- [ ] Rust
+- [x] Python
+- [x] Rust
+- [ ] Go
