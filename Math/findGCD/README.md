@@ -37,7 +37,7 @@ The greatest common divisor of two numbers is the largest positive integer that 
 
 ## Solution Languages
 
-- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [ ] Rust
+- [x] Rust
+- [ ] Go
