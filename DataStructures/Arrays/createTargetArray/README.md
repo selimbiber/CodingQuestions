@@ -45,7 +45,7 @@ It is guaranteed that the insertion operations will be valid.
 
 ## Solution Languages
 
-- [x] JavaScript
 - [x] TypeScript
 - [x] Python
-- [ ] Rust
+- [x] Rust
+- [ ] Go
