@@ -1,4 +1,4 @@
-# The total amount of points
+# [The total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
 
 ## Question Description
 
@@ -25,6 +25,4 @@ Notes:
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/5bb904724c47249b10000131)
+- [x] Python
