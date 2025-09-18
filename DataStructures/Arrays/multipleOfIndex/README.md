@@ -1,4 +1,4 @@
-# Multiple of index
+# [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009)
 
 ## Question Description
 
@@ -17,6 +17,4 @@ Return a new array consisting of elements that are multiple of their own index i
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/5a34b80155519e1a00000009)
+- [x] Python
