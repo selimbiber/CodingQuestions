@@ -1,4 +1,4 @@
-# Generate range of integers
+# [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106)
 
 ## Question Description
 
@@ -7,6 +7,4 @@ Implement the function generateRange which takes three arguments (start, stop, s
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/55eca815d0d20962e1000106)
+- [x] Python
