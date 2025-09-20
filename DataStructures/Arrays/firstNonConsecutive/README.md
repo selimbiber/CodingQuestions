@@ -1,4 +1,4 @@
-# Find the first non-consecutive number
+# [Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/)
 
 ## Question Description
 
@@ -15,6 +15,4 @@ The array will always have at least 2 elements and all elements will be numbers.
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/)
+- [x] Python
