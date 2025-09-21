@@ -1,4 +1,4 @@
-# Build Array from Permutation
+# [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)
 
 ## Question Description
 
@@ -9,6 +9,4 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://leetcode.com/problems/build-array-from-permutation)
+- [x] Python
