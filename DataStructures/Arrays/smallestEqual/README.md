@@ -45,4 +45,4 @@ x mod y denotes the remainder when x is divided by y.
 - [x] TypeScript
 - [x] Python
 - [x] Rust
-- [ ] Go
+- [x] Go
