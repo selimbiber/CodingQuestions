@@ -1,4 +1,4 @@
-# Return Length of Arguments Passed
+# [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)
 
 ## Question Description
 
@@ -7,6 +7,6 @@ Write a function argumentsLength that returns the count of arguments passed to i
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://leetcode.com/problems/return-length-of-arguments-passed)
+- [x] Python
+- [ ] Rust
+- [ ] Go
