@@ -6,7 +6,7 @@ Write a function argumentsLength that returns the count of arguments passed to i
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [ ] Rust
 - [ ] Go
