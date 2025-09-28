@@ -9,4 +9,4 @@ Write a function argumentsLength that returns the count of arguments passed to i
 - [x] TypeScript
 - [x] Python
 - [x] Rust
-- [ ] Go
+- [x] Go
