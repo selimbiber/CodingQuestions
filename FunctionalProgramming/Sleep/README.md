@@ -1,4 +1,4 @@
-# Sleep
+# [Sleep](https://leetcode.com/problems/sleep)
 
 ## Question Description
 
@@ -6,7 +6,7 @@ Given a positive integer millis, write an asynchronous function that sleeps for 
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://leetcode.com/problems/sleep)
+- [ ] Rust
+- [ ] Go
