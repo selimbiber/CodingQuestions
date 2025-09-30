@@ -1,4 +1,4 @@
-# Find numbers which are divisible by given number
+# [Find numbers which are divisible by given number]
 
 ## Question Description
 
@@ -7,6 +7,4 @@ Complete the function which takes two arguments and returns all numbers which ar
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/55edaba99da3a9c84000003b)
+- [x] Python
