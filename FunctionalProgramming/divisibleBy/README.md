@@ -7,4 +7,5 @@ Complete the function which takes two arguments and returns all numbers which ar
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [x] Python
