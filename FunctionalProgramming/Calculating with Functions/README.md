@@ -1,4 +1,4 @@
-# Calculating with Functions
+# [Calculating with Functions](https://leetcode.com/problems/array-reduce-transformation)
 
 ## Question Description
 
@@ -26,6 +26,4 @@ eight(dividedBy(three()));
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://leetcode.com/problems/array-reduce-transformation)
+- [x] Python
