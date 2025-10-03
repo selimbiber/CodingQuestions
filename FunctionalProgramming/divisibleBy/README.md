@@ -9,3 +9,4 @@ Complete the function which takes two arguments and returns all numbers which ar
 - [x] JavaScript
 - [x] TypeScript
 - [x] Python
+- [x] Rust
