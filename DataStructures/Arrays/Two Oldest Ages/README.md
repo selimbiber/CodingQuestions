@@ -1,4 +1,4 @@
-# Two Oldest Ages
+# [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001)
 
 ## Question Description
 
@@ -9,6 +9,4 @@ The order of the numbers passed in could be any order. The array will always inc
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/511f11d355fe575d2c000001)
+- [x] Rust
