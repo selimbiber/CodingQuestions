@@ -37,5 +37,4 @@ Return an array containing the indices of all stable mountains in any order.
 
 - [x] TypeScript
 - [x] Python
-- [ ] Rust
-- [ ] Go
+- [x] Rust
