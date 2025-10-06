@@ -13,6 +13,6 @@ If the array is empty or the array has only one element the result should be 0
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)
