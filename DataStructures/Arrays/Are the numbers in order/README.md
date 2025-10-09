@@ -1,4 +1,4 @@
-# Are the numbers in order
+# [Are the numbers in order](https://www.codewars.com/kata/56b7f2f3f18876033f000307)
 
 ## Question Description
 
@@ -11,6 +11,4 @@ Note that an array of 0 or 1 integer(s) is automatically considered to be sorted
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/56b7f2f3f18876033f000307)
+- [x] Python
