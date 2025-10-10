@@ -9,6 +9,6 @@ As a good parent, you will sit and count on him. Given the number (n), populate 
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
