@@ -26,3 +26,4 @@ Notes:
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
