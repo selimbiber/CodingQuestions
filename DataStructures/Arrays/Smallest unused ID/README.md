@@ -11,6 +11,6 @@ Note: The given array of used IDs may be unsorted. For test reasons there may be
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/55eea63119278d571d00006a)
