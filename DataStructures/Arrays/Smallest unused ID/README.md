@@ -1,4 +1,4 @@
-# Smallest unused ID
+# [Smallest unused ID](https://www.codewars.com/kata/55eea63119278d571d00006a)
 
 ## Question Description
 
@@ -12,5 +12,4 @@ Note: The given array of used IDs may be unsorted. For test reasons there may be
 
 - [x] JavaScript
 - [x] Python
-
-## [Question Source](https://www.codewars.com/kata/55eea63119278d571d00006a)
+- [x] Rust
