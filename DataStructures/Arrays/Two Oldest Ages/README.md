@@ -10,3 +10,4 @@ The order of the numbers passed in could be any order. The array will always inc
 
 - [x] JavaScript
 - [x] Rust
+- [x] Go
