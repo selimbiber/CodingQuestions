@@ -36,4 +36,4 @@ The index where nums[i] == 5 is 4.
 - [x] TypeScript
 - [x] Python
 - [x] Rust
-- [ ] Go
+- [x] Go
