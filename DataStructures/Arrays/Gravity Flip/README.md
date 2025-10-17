@@ -1,4 +1,4 @@
-# Gravity Flip
+# [Gravity Flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673/train)
 
 ## Question Description
 
@@ -31,5 +31,4 @@ Given the initial configuration of the cubes in the box, find out how many cubes
 
 - [x] TypeScript
 - [x] Python
-
-## [Question Source](https://www.codewars.com/kata/5f70c883e10f9e0001c89673/train/typescript)
+- [x] Rust
