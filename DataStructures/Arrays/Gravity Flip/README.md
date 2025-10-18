@@ -32,3 +32,4 @@ Given the initial configuration of the cubes in the box, find out how many cubes
 - [x] TypeScript
 - [x] Python
 - [x] Rust
+- [x] Go
