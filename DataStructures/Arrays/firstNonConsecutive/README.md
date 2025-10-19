@@ -15,4 +15,5 @@ The array will always have at least 2 elements and all elements will be numbers.
 ## Solution Languages
 
 - [x] JavaScript
+- [x] Rust
 - [x] Python
