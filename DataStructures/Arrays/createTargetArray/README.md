@@ -48,4 +48,4 @@ It is guaranteed that the insertion operations will be valid.
 - [x] TypeScript
 - [x] Python
 - [x] Rust
-- [ ] Go
+- [x] Go
