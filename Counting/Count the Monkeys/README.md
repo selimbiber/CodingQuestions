@@ -11,5 +11,6 @@ As a good parent, you will sit and count on him. Given the number (n), populate 
 - [x] JavaScript
 - [x] Python
 - [x] Rust
+- [x] Go
 
 ## [Question Source](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)
