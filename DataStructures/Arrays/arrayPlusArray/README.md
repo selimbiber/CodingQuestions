@@ -8,3 +8,4 @@ Each array includes only integer numbers. Output is a number too.
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
