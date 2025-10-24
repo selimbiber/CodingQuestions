@@ -8,3 +8,4 @@ Implement the function generateRange which takes three arguments (start, stop, s
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
