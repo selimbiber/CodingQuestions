@@ -12,5 +12,6 @@ Same goes for all the other arrays/lists that you will get in the tests: you hav
 
 - [x] JavaScript
 - [x] Rust
+- [x] Go
 
 ## [Question Source](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55)
