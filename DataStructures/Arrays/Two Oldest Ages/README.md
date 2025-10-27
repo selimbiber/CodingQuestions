@@ -8,6 +8,6 @@ The order of the numbers passed in could be any order. The array will always inc
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Rust
 - [x] Go
