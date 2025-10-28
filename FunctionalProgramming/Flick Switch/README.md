@@ -8,6 +8,6 @@ However, if an element is the word 'flick', switch to always returning the oppos
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
