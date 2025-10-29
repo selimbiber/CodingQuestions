@@ -9,5 +9,6 @@ However, if an element is the word 'flick', switch to always returning the oppos
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
