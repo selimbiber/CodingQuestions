@@ -7,7 +7,7 @@ However, if an element is the word 'flick', switch to always returning the oppos
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
 
