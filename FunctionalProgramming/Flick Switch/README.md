@@ -10,5 +10,6 @@ However, if an element is the word 'flick', switch to always returning the oppos
 - [x] TypeScript
 - [x] Python
 - [x] Rust
+- [x] Go
 
 ## [Question Source](https://www.codewars.com/kata/64fbfe2618692c2018ebbddb)
