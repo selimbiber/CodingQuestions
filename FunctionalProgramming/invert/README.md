@@ -15,6 +15,6 @@ You can assume that all values are integers. Do not mutate the input array.
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
