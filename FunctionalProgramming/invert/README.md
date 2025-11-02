@@ -16,5 +16,6 @@ You can assume that all values are integers. Do not mutate the input array.
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad)
