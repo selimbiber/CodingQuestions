@@ -7,6 +7,6 @@ Given a positive integer millis, write an asynchronous function that sleeps for 
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] Rust
 - [ ] Go
