@@ -8,5 +8,5 @@ Given a positive integer millis, write an asynchronous function that sleeps for 
 
 - [x] TypeScript
 - [x] Python
-- [ ] Rust
+- [x] Rust
 - [ ] Go
