@@ -10,3 +10,4 @@ Men are the Even numbers and Boys are the odd
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
