@@ -18,6 +18,6 @@ This function should return a number (final grade). There are four types of fina
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
