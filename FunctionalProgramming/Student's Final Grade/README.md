@@ -19,5 +19,6 @@ This function should return a number (final grade). There are four types of fina
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/5ad0d8356165e63c140014d4)
