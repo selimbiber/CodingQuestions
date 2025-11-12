@@ -1,4 +1,4 @@
-# Sum even numbers
+# [Sum even numbers](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)
 
 ## Question Description
 
@@ -11,6 +11,4 @@ The input is a sequence of numbers: integers and/or floats.
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/586beb5ba44cfc44ed0006c3)
+- [x] Python
