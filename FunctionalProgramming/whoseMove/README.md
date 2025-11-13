@@ -13,6 +13,6 @@ For lastPlayer = "white" and win = true, the output should be "white".
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/59126992f9f87fd31600009b)
