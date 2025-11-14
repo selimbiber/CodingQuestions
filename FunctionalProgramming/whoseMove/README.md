@@ -14,5 +14,6 @@ For lastPlayer = "white" and win = true, the output should be "white".
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/59126992f9f87fd31600009b)
