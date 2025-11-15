@@ -1,4 +1,4 @@
-# Simple Fun #261: Whose Move
+# [Simple Fun #261: Whose Move](https://www.codewars.com/kata/59126992f9f87fd31600009b)
 
 ## Question Description
 
@@ -15,5 +15,4 @@ For lastPlayer = "white" and win = true, the output should be "white".
 - [x] JavaScript
 - [x] Python
 - [x] Rust
-
-## [Question Source](https://www.codewars.com/kata/59126992f9f87fd31600009b)
+- [x] Go
