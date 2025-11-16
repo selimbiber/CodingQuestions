@@ -1,4 +1,4 @@
-# To Lower Case
+# [To Lower Case](https://leetcode.com/problems/to-lower-case)
 
 ## Question Description
 
@@ -7,6 +7,4 @@ Given a string s, return the string after replacing every uppercase letter with 
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://leetcode.com/problems/to-lower-case)
+- [x] Python
