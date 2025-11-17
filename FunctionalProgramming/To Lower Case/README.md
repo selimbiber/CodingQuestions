@@ -8,3 +8,4 @@ Given a string s, return the string after replacing every uppercase letter with 
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
