@@ -12,3 +12,4 @@ The input is a sequence of numbers: integers and/or floats.
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
