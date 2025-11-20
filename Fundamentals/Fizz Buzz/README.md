@@ -15,6 +15,6 @@ N will never be less than 1.
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/5300901726d12b80e8000498)
