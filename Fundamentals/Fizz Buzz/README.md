@@ -1,4 +1,4 @@
-# Fizz Buzz
+# [Fizz Buzz](https://www.codewars.com/kata/5300901726d12b80e8000498)
 
 ## Question Description
 
@@ -16,5 +16,4 @@ N will never be less than 1.
 
 - [x] JavaScript
 - [x] Python
-
-## [Question Source](https://www.codewars.com/kata/5300901726d12b80e8000498)
+- [x] Rust
