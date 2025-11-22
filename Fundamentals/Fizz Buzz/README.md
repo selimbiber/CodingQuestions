@@ -15,5 +15,6 @@ N will never be less than 1.
 ## Solution Languages
 
 - [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
