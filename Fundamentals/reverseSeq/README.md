@@ -9,6 +9,6 @@ Example : n=5 --> [5,4,3,2,1]
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/typescript)
