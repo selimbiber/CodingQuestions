@@ -10,5 +10,6 @@ Example : n=5 --> [5,4,3,2,1]
 
 - [x] TypeScript
 - [x] Python
+- [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/typescript)
