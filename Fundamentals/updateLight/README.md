@@ -12,3 +12,4 @@ For example, when the input is green, output should be yellow.
 
 - [x] TypeScript
 - [x] Python
+- [x] Rust
