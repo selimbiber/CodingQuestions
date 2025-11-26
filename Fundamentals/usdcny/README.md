@@ -16,6 +16,6 @@ The conversion rate you should use is 6.75 CNY for every 1 USD. All numbers shou
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/5977618080ef220766000022/train/typescript)
