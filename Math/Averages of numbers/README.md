@@ -16,6 +16,6 @@ If the array has 0 or 1 values or is null, your method should return an empty ar
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/57d2807295497e652b000139)
