@@ -1,4 +1,4 @@
-# Averages of numbers
+# [Averages of numbers](https://www.codewars.com/kata/57d2807295497e652b000139)
 
 ## Question Description
 
@@ -15,8 +15,6 @@ If the array has 0 or 1 values or is null, your method should return an empty ar
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
-
-## [Question Source](https://www.codewars.com/kata/57d2807295497e652b000139)
