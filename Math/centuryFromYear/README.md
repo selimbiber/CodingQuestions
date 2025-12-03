@@ -16,7 +16,7 @@ For year = 1700, the output should be centuryFromYear(year) = 17;
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Rust
 - [x] Python
 
