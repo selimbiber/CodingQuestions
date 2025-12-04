@@ -1,4 +1,4 @@
-# Grasshopper - Terminal game combat function
+# [Grasshopper - Terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d)
 
 ## Question Description
 
@@ -7,6 +7,4 @@ Create a combat function that takes the player's current health and the amount o
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/586c1cf4b98de0399300001d)
+- [x] Python
