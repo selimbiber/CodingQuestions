@@ -8,3 +8,4 @@ Create a combat function that takes the player's current health and the amount o
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
