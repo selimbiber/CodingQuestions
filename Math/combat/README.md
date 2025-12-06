@@ -6,6 +6,6 @@ Create a combat function that takes the player's current health and the amount o
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
