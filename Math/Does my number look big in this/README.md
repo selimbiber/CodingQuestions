@@ -28,3 +28,4 @@ Error checking for text strings or other invalid inputs is not required, only va
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
