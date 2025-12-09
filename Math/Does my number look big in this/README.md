@@ -26,6 +26,6 @@ Error checking for text strings or other invalid inputs is not required, only va
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
