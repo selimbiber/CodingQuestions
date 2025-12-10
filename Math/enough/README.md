@@ -1,4 +1,4 @@
-# Will there be enough space?
+# [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
 
 ## Question Description
 
@@ -20,6 +20,4 @@ cap = 100, on = 60, wait = 50 --> 10 # He can't fit 10 of the 50 waiting
 ## Solution Languages
 
 - [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/5875b200d520904a04000003)
+- [x] Python
