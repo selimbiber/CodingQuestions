@@ -10,5 +10,6 @@ For example, if the parameters passed are (2, 6), the function should return [2,
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
