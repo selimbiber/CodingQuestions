@@ -8,7 +8,7 @@ For example, if the parameters passed are (2, 6), the function should return [2,
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
 
