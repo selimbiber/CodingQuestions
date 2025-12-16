@@ -1,4 +1,4 @@
-# Get the mean of an array
+# [Get the mean of an array](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 
 ## Question Description
 
@@ -10,7 +10,5 @@ The array will never be empty.
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/563e320cee5dddcf77000158)
