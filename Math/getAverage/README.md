@@ -11,4 +11,4 @@ The array will never be empty.
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
