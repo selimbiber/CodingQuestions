@@ -12,3 +12,4 @@ The array will never be empty.
 
 - [x] TypeScript
 - [x] Python
+- [x] Rust
