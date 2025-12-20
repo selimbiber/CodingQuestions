@@ -9,6 +9,7 @@ The inputs x and y are always greater or equal to 1, so the greatest common divi
 ## Solution Languages
 
 - [x] JavaScript
+- [x] Python
 - [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
