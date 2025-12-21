@@ -8,7 +8,7 @@ The inputs x and y are always greater or equal to 1, so the greatest common divi
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
 
