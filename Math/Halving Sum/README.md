@@ -10,7 +10,7 @@ All elements of the sum are the results of integer division.
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
 
