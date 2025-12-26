@@ -12,5 +12,6 @@ You get given the time in hours and you need to return the number of liters Nath
 
 - [x] JavaScript
 - [x] Python
+- [x] Rust
 
 ## [Question Source](https://www.codewars.com/kata/582cb0224e56e068d800003c)
