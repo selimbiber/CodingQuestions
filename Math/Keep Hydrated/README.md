@@ -10,7 +10,7 @@ You get given the time in hours and you need to return the number of liters Nath
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [x] Python
 - [x] Rust
 
