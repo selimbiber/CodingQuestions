@@ -8,7 +8,7 @@ Determine whether the largest element in the array is at least twice as much as 
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [ ] Python
 
 ## [Question Source](https://leetcode.com/problems/largest-number-at-least-twice-of-others)
