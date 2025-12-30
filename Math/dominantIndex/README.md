@@ -10,5 +10,6 @@ Determine whether the largest element in the array is at least twice as much as 
 
 - [x] TypeScript
 - [x] Python
+- [x] Rust
 
 ## [Question Source](https://leetcode.com/problems/largest-number-at-least-twice-of-others)
