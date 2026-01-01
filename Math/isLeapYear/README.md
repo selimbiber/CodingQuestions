@@ -13,5 +13,6 @@ Tested years are in range 1600 ≤ year ≤ 4000.
 ## Solution Languages
 
 - [x] TypeScript
+- [x] Python
 
 ## [Question Source](https://www.codewars.com/kata/526c7363236867513f0005ca)
