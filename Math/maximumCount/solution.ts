@@ -1,9 +1,12 @@
-function maximumCount(nums) {
+function maximumCount(nums: number[]): number {
   let [negativeCount, positiveCount] = [0, 0];
 
   for (const num of nums) {
     if (num === 0) continue;
-    num > 0 ? ++negativeCount : ++positiveCount;
+    
+    num > 0 
+      ? ++negativeCount 
+      : ++positiveCount;
   }
 
   return Math.max(negativeCount, positiveCount);

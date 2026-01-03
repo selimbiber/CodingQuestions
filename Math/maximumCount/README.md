@@ -1,4 +1,4 @@
-# Maximum Count of Positive Integer and Negative Integer
+# [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)
 
 ## Question Description
 
@@ -10,7 +10,4 @@ Note that 0 is neither positive nor negative.
 
 ## Solution Languages
 
-- [x] JavaScript
-- [ ] Python
-
-## [Question Source](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer)
+- [x] TypeScript
