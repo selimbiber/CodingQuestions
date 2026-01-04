@@ -11,3 +11,4 @@ Note that 0 is neither positive nor negative.
 ## Solution Languages
 
 - [x] TypeScript
+- [x] Python
