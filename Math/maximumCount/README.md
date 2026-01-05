@@ -12,3 +12,4 @@ Note that 0 is neither positive nor negative.
 
 - [x] TypeScript
 - [x] Python
+- [x] Rust
