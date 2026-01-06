@@ -1,9 +1,11 @@
-function getSum(a, b) {
+function getSum(a: number, b: number): number {
   const start = Math.min(a, b);
   const end = Math.max(a, b);
   let sum = 0;
 
-  for (let i = start; i <= end; i++) sum += i;
+  for (let i = start; i <= end; i++) {
+    sum += i;
+  }
 
   return sum;
 }

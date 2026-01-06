@@ -1,4 +1,4 @@
-# Sum of Numbers
+# [Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 
 ## Question Description
 
@@ -6,7 +6,6 @@ Given two integers a and b, which can be positive or negative, find the sum of a
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/55f2b110f61eb01779000053)
+- [ ] Rust
