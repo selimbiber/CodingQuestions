@@ -7,5 +7,5 @@ Given two integers a and b, which can be positive or negative, find the sum of a
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] Rust
