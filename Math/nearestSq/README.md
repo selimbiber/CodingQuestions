@@ -1,4 +1,4 @@
-# Find the Nearest square number
+# [Find the Nearest square number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba)
 
 ## Question Description
 
@@ -10,7 +10,6 @@ If the n is already the perfect square (e.g. n = 144, n = 81, etc.), you need to
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba)
+- [ ] Rust
