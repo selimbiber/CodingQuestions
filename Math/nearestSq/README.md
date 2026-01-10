@@ -11,5 +11,5 @@ If the n is already the perfect square (e.g. n = 144, n = 81, etc.), you need to
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] Rust
