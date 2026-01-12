@@ -1,5 +1,5 @@
-function twoSum(numbers, target) {
-  const numMap = {};
+function twoSum(numbers: number[], target: number): number[] | undefined {
+  const numMap: Record<number, number> = {};
 
   for (let i = 0; i < numbers.length; i++) {
     const complement = target - numbers[i];

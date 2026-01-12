@@ -1,4 +1,4 @@
-# Two Sum
+# [Two Sum](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 
 ## Question Description
 
@@ -10,7 +10,6 @@ The input will always be valid (numbers will be an array of length 2 or greater,
 
 ## Solution Languages
 
-- [x] JavaScript
+- [x] TypeScript
 - [ ] Python
-
-## [Question Source](https://www.codewars.com/kata/55f2b110f61eb01779000053)
+- [ ] Rust
