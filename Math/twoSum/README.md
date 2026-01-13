@@ -11,5 +11,5 @@ The input will always be valid (numbers will be an array of length 2 or greater,
 ## Solution Languages
 
 - [x] TypeScript
-- [ ] Python
+- [x] Python
 - [ ] Rust
